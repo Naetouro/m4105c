@@ -4,5 +4,8 @@ body{
 
 img{
   width: 100%;
+}
+
+.panda{
   border: 1px solid black;
 }
