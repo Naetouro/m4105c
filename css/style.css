@@ -1,5 +1,6 @@
 body{
   background-color: orange;
+  margin: 0;
 }
 
 img{
@@ -8,4 +9,8 @@ img{
 
 .panda{
   border: 1px solid black;
+}
+
+.contenu{
+  margin: 8px;
 }
