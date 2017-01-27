@@ -7,8 +7,13 @@ img{
   width: 100%;
 }
 
+input{
+  margin: auto;
+}
+
 .panda{
   border: 1px solid black;
+  margin-top: 15px;
 }
 
 .contenu{
