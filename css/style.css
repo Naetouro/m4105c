@@ -3,20 +3,30 @@ body{
   margin: 0;
 }
 
-img{
-  width: 100%;
-}
-
-input{
+.bamboo{
+  width: 50%;
   margin: auto;
-}
-
-.panda{
-  border: 1px solid black;
-  margin-top: 15px;
-  
+  display: block;
 }
 
 .contenu{
-  margin: 8px;
+  width: 50%;
+  margin: auto;
+}
+
+.form{
+  text-align: center;
+}
+
+.form input{
+  width: 50%;
+  margin: 5px;
+}
+
+.panda{
+  width: 60%;
+  margin: auto;
+  margin-top: 15px;
+  display: block;
+  border: 1px solid black;
 }
