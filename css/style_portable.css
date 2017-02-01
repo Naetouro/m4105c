@@ -1,6 +1,7 @@
 
   .bamboo{
     width: 100%;
+    margin-top: 0;
   }
 
   .panda{
@@ -24,4 +25,12 @@
 
   .form input{
     margin: 5px auto;
+  }
+
+  .logo{
+    background-image: url("../img/logo.jpg");
+    background-repeat: no-repeat;
+    background-size: 300px auto;
+    height: 300px;
+    margin-left: 35%;
   }

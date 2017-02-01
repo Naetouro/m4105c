@@ -3,10 +3,18 @@ body{
   margin: 0;
 }
 
+.logo{
+  background-image: url("../img/logo.jpg");
+  background-repeat: no-repeat;
+  background-size: 300px auto;
+  height: 300px;
+}
+
 .bamboo{
   width: 50%;
   margin: auto;
   display: block;
+  margin-top: -300px;
 }
 
 .contenu{
